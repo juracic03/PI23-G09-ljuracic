@@ -16,12 +16,3 @@ Projekt predstavlja specifikacije i karakteristike odgovarajućeg softverskog rj
 
 ## Specifikacija projekta 
 Ideja softverskog rješenja je omogućavanje korisnicima prijavu u sustav putem kojih, preciznije djelatnici IT poduzeća mogu putem forme kreirati i poslati zahtjev *manageru* tima gdje oni odlučuju o njegovom statusu, odnosno odbijanju ili odobravanju koji se tada šalje odjelu ljudskih resursa. Na temelju promijenjenog statusa, odnosno donešene odluke *managera* tima, djelatnici iz odjela ljudskih resursa tada evidentiraju odsutnost djelatnika kroz planirani određeni period vremena. Tako odjel ljudskih resursa može pratiti djelatnike u IT poduzeću. Sustav će svim njezinim korisnicima omogućiti automatsko kreiranje zahtjeva, izmjene zahtjeva, promjena statusa, pregled statusa zahhtjeva i olakšanu evidenciju odsustva i prisutnosti bez potrebe staromodnog zabilježavanja podataka na papir gdje se pojavljuje veća šansa za upis pogreške i nepotrebnog duljeg čekanja na odgovor. 
-
-
-## Zadatak
-
-[Zadatak - Korisnički zahtjevi za Softver Kadrovska služba u IT poduzeću](https://github.com/foivz/pi2023-zadace-ljuracic21/blob/master/Zadatak%20-%20Kadrovska.pdf)
-
-## Resursi
-
-Svi resursi nalaze se u mapi _Documentation_.
